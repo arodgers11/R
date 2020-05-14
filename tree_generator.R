@@ -1,3 +1,5 @@
+#Generates random binary trees with n nodes
+
 library("phytools", lib.loc="~/R/win-library/3.4")
 for(n in 6:20) {
   d<-c()
